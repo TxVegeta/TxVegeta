@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Toshar Bhardwaj</h1>
 <h3 align="center">A passionate Full Stack developer and Machine Learning Enthusiast</h3>
+‹img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=txvegeta&label=Profile%20views&color=0e75b6&style=flat" alt="txvegeta" /> </p>
 
