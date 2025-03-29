@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=txvegeta&show_icons=true&locale=en" alt="txvegeta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=txvegeta&" alt="txvegeta" /></p>
+
 
