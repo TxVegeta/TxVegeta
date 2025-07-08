@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toshar Bhardwaj</h1>
-<h3 align="center">A passionate Full Stack developer and Machine Learning and DevOps Enthusiast</h3>
+<h3 align="center">A passionate Full Stack developer also Machine Learning and DevOps Enthusiast</h3>
 
 
 <p align="left"> <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" /> </p>
